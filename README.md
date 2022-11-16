@@ -1,4 +1,4 @@
-# Python
+# Project_1
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/my_projects76/python.git
+git remote add origin https://gitlab.com/my_projects76/Project_1.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/my_projects76/python/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/my_projects76/Project_1/-/settings/integrations)
 
 ## Collaborate with your team
 
